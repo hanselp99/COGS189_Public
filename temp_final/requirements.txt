@@ -1,0 +1,26 @@
+# Hollow Knight SSVEP BCI — Requirements
+# pip install -r requirements.txt
+
+# Core scientific stack
+numpy
+scipy
+pandas
+
+# EEG processing
+mne
+brainflow
+
+# Stimulus presentation
+psychopy
+
+# Game input simulation
+pyautogui
+
+# Machine learning
+scikit-learn
+
+# Progress bars
+tqdm
+
+# Plotting
+matplotlib
